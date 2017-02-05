@@ -14,13 +14,13 @@ Momentum strategy should be the easiest strategy been used in the world. Its fun
 (a). Plain coding model:
 Input: one-dimensional data
 Output: Profit for one-year investment
-Coding method: plain script coding, line by line, like code in R
+Coding method: interactive coding
 Mission: Explore the performance of strategy in perfect scenario (no cost, instant trading, etc.)
 
 (b). Level-1 simulation model:
 Input: all the data in the market
 Output: Profit, Investment Stock, Holding period and other investment information
-Coding Method: Plain script coding like Plain coding model
+Coding Method: interactive coding
 Mission: Calibrate key parameters like buy or sell conditions
 
 (c). Level-2 simulation model:
